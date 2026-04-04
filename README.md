@@ -36,10 +36,8 @@ Industries Experience: Healthcare. E-commerce Logistics and Saas AI platform.
 
 # 📊GitHub Stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magesh-balaji&show_icons=true&locale=en&layout=compact" alt="magesh-balaji" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magesh-balaji&show_icons=true&locale=en" alt="magesh-balaji" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magesh-balaji&" alt="magesh-balaji" /></p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Magesh-Balaji&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Magesh-Balaji)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Magesh-Balaji&layout=compact)
 
 ![](https://leetcard.jacoblin.cool/Magesh_Balaji?ext=heatmap)
