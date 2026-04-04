@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mageshmca2001" alt="Magesh-Balaji" /></a> </p>
 
-- 🔭 I’m currently working on **Saas AI Projects**
+- 🔭 I’m Done working on **Saas AI Projects**
 
-- 🌱 I’m currently learning **Next.js an Angular**
+- 🌱 I’m Done learning **Next.js an Angular**
 
 - 👨‍💻 All of my projects are available at [https://mageshmca2001.github.io/Portfolilo/](https://mageshmca2001.github.io/Portfolilo/)
 
-- 💬 Ask me about **Typescript,MangoDB**
+- 💬 Ask me about **Typescript,Javascript,MangoDB**
 
 - 📫 How to reach me **MageshMca2001@gmail.com**
 
