@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MageshBalaji</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mageshmca2001" alt="mageshmca2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mageshmca2001" alt="Magesh-Balaji" /></a> </p>
 
 - 🔭 I’m currently working on **Saas AI Projects**
 
@@ -15,7 +15,7 @@
 
 
 # 💫 About Me:
-Fresher Full Stack JavaScript developer | React.js | Node.js
+Full Stack JavaScript developer | React.js | Node.js
 I'm Full-Stack Developer with 1+ years experience in Sofware Development. (Back-End & Front-End ) ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 
 <br>Hi, I congratulate you on finally finding the right person to realize your dream. I've done many projects and love to see a small idea grow into a large-scale business. I have a commercial background as a professional full-stack developer who is thoroughly familiar with React Next.js Node.js Proficient in Redux, and TypeScript, I specialize in diverse UI development using Bootstrap/Material-UI, Restful API, GraphQL, and 3D visualization. I have extensive experience integrating third-party APIs like Stripe, Twilio, and Google Maps. 
  My expertise extends to backend development, where I utilize the Mongoose ODM library for MongoDB and work with SQL, including writing aggregate functions. I am skilled in Node.js, and Express, incorporating libraries such as JWT, Mongoose, cors, etc. 
