@@ -5,7 +5,7 @@
 
 - 🌱 I’m Done learning **Next.js an Angular**
 
-- 👨‍💻 All of my projects are available at [https://mageshmca2001.github.io/Portfolilo/](https://mageshmca2001.github.io/Portfolilo/)
+- 👨‍💻 All of my projects are available at [https://magesh-balaji.github.io/Portfolilo/](https://magesh-balaji.github.io/Portfolilo/)
 
 - 💬 Ask me about **Typescript,Javascript,MangoDB**
 
