@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm MageshBalaji</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mageshmca2001&theme=onedark" />
-  </a>
-</p>
-
 - 🔭 I’m Done working on **Saas AI Projects**
 
 - 🌱 I’m Done learning **Next.js an Angular**
