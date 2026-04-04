@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mageshmca2001.github.io/Portfolilo/](https://mageshmca2001.github.io/Portfolilo/)
 
-- 💬 Ask me about **Typescript,Javascript,MangoDB**
+- 💬 Ask me about **Typescript,Javascript,Github**
 
 - 📫 How to reach me **MageshMca2001@gmail.com**
 
