@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MageshBalaji</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m Done working on **Saas AI Projects**
+- 🔭 I’m currently working on **BCS Software Application**
 
-- 🌱 I’m Done learning **Next.js an Angular**
+- 🌱 I’m Done learning **Next.js an Angular && .NET**
 
 - 👨‍💻 All of my projects are available at [https://mageshmca2001.github.io/Portfolilo/](https://mageshmca2001.github.io/Portfolilo/)
 
