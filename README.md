@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Typescript,Javascript,Github**
 
-- 📫 How to reach me **MageshMca2001@gmail.com**
+- 📫 How to reach me **Mageshbgt2001@outlook.com**
 
 
 # 💫 About Me:
