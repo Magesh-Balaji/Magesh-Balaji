@@ -5,7 +5,7 @@
 
 - 🌱 I’m Done learning **Next.js an Angular && .NET**
 
-- 👨‍💻 All of my projects are available at [https://mageshmca2001.github.io/Portfolilo/](https://mageshmca2001.github.io/Portfolilo/)
+- 👨‍💻 All of my projects are available at [https://portfolio-bgt.netlify.app/](https://portfolio-bgt.netlify.app/)
 
 - 💬 Ask me about **Typescript,Javascript,Github**
 
